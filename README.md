@@ -1,7 +1,7 @@
 # What Is GitHub
 Before GitHub, software development collaboration
 was not that simple. Every proposed changed
-will be sent to email because there is no 
+would be sent to email because there was no 
 centralized site. Imagine if this will be
 a collaboration of more than a hundred developers
 working at the same time.
