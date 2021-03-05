@@ -21,7 +21,7 @@ development but since GitHub added its own
 features, it is not simply a centralized
 site for Git.
 
-## GitHub As Online Repo For Git
+## GitHub As Hosting Site For Git
 
 ## GitHub Other Uses
 
