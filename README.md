@@ -47,7 +47,7 @@ place.
 Now, the good thing about GitHub is that
 it can be used much like Google Docs to
 generate document files, provided
-it's purely text. Example of pure text
+it's purely text. Examples of pure text
 content are classic novels, law articles,
 and complex tutorials. Take note,
 even though it's pure text, Markdown
@@ -76,7 +76,7 @@ like a vlog:
 
 With this, while you are creating your 
 digital content, every change will be counted
-as commit, thereby making your GitHub Profile
+as a commit, thereby making your GitHub Profile
 a good one.
 
 ## GitHub As A Social Media
@@ -116,8 +116,8 @@ workflow here:
 The very first time I encountered GitHub, 
 I was prompted by these jargon terms:
 
-`repository` - think of it as Google Drive folder
-where your files resides.
+`repository` - think of it as a Google Drive folder
+where your files reside.
 But commonly in GitHub, there is the README file
 as the description of your project
 and the source code/s. There can be subfolders
@@ -125,11 +125,11 @@ for software development folder structure.
 
 `fork` - a copy of a repository. Changes can
 be made without affecting the original
-repository. A pull requrest should be
+repository. A pull request should be
 created so that changes can be merged.
 A pull request can be simply not merged
-in main branch as the active developers
-has the full control.
+in the main branch as the active developers
+have the full control.
 
 `pull request` - a request for the author/s
 of a repo to have the proposed change/s
@@ -176,11 +176,11 @@ go to your dashboard
 
 <https://github.com/>
 
-at the left side you will be seeing `Repositories`
+at the left side you will be seeing the `Repositories`
 section click `New`.
 
 Also, to practice copying another repo, 
-if you are viewing this as page, click
+if you are viewing this as a page, click
 the button `View On GitHub` button on top
 and when you are already in GitHub, 
 at the upper right corner you'll
