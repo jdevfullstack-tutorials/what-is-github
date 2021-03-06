@@ -172,12 +172,12 @@ then click `Repositories` tab, then you'll see the
 
 or
 
-your dashboard 
+go to your dashboard 
 
 <https://github.com/>
 
-at the left side you will be seeing Repositories
-click `New`.
+at the left side you will be seeing `Repositories`
+section click `New`.
 
 Also, to practice copying another repo, 
 if you are viewing this as page, click
