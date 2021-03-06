@@ -66,6 +66,13 @@ I covered the essence of creating written
 content compared to video presentations
 like a vlog.
 
+<https://github.com/xdvrx1/github-pages-tutorial>
+
+With this, while you are creating your 
+digital content, every change will be counted
+as commit, thereby making your GitHub Profile
+a good one.
+
 ## GitHub As A Social Media
 Since GitHub was also intended to be
 a social media for developers and non-developers
@@ -94,4 +101,6 @@ A simple project in Java will be too
 complicated if you will be using the Spring Boot.
 The same is also true for GitHub.
 
-I also covered my simple content dev workflow. 
+I also covered my simple content dev workflow here:
+
+<https://github.com/xdvrx1/my-personal-content-dev-workflow>
