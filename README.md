@@ -181,7 +181,7 @@ click `New`.
 
 Also, to practice copying another repo, 
 if you are viewing this as page, click
-the button `Go To GitHub` button on top
+the button `View On GitHub` button on top
 and when you are already in GitHub, 
 at the upper right corner you'll
 see `Fork` button. Simply click it
