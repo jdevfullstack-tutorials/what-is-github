@@ -157,3 +157,32 @@ for the complete list here is the
 link:
 
 <https://docs.github.com/en/github/getting-started-with-github/github-glossary>
+
+## Your First Steps
+So what are you waiting for! Join GitHub, it's free.
+
+<https://github.com/join>
+
+Then create your very first repo by going into your profile
+
+<https://github.com/[yourusername]>
+
+then click `Repositories` tab, then you'll see the 
+`New` button
+
+or
+
+your dashboard 
+
+<https://github.com/>
+
+at the left side you will be seeing Repositories
+click `New`.
+
+Also, to practice copying another repo, 
+if you are viewing this as page, click
+the button `Go To GitHub` button on top
+and when you are already in GitHub, 
+at the upper right corner you'll
+see `Fork` button. Simply click it
+and you will have the copy of this repo!
