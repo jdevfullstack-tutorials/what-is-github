@@ -2,9 +2,10 @@
 Before GitHub, software development collaboration
 was not that simple. Every proposed change
 would be sent to email because there was no 
-centralized space. Imagine if this will be
+centralized space. Imagine if this would be
 a collaboration of more than a hundred developers
-working at the same time.
+working at the same time. That was the
+flow back then.
 
 It was the same thing when Microsoft Word would 
 be used for collaboration for non-tech documents.
@@ -20,7 +21,7 @@ the version control is very comprehensive.
 That is GitHub. It is mainly for software
 development but since GitHub added its own
 features, it is not simply a centralized
-site for Git.
+space for Git.
 
 ## GitHub As Hosting Site For Git
 This was the very start of GitHub. In order
