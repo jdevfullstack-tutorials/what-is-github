@@ -13,7 +13,7 @@ server so that one file could be changed
 simultaneously or through WebDAV. But Google Docs
 simplified the setup because it is web-based.
 GitHub has the same concept. It is a centralized
-site where the development actually happens.
+space where the development actually happens.
 
 Think of Google Docs with purely text and 
 the version control is very comprehensive.
@@ -37,15 +37,21 @@ they simply acquired it.
 Now, the good thing about GitHub is that
 it can be used much like Google Docs to
 generate document files, provided
-it's purely text. Of course, the
-markdown can embed pictures and gifs
-also.
+it's purely text. 
 
-Markdown is a lightweight markup language
+GitHub is using markdown for the 
+README file. Markdown is a lightweight 
+markup language
 so that you will not be writing using 
 the pure HTML for your blogging site, for
 example. It's a simplified version so
 that you can focus on your content.
+
+The essence of using GitHub just like
+Google Docs is that you are not confined
+with Google Docs or any other word processor.
+Text data can be read by any other machine
+that you will be using.
 
 I covered the essence of creating written
 content compared to video presentations
