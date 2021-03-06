@@ -1,8 +1,8 @@
 # What Is GitHub
 Before GitHub, software development collaboration
-was not that simple. Every proposed changed
+was not that simple. Every proposed change
 would be sent to email because there was no 
-centralized site. Imagine if this will be
+centralized space. Imagine if this will be
 a collaboration of more than a hundred developers
 working at the same time.
 
@@ -68,7 +68,7 @@ workflow.
 
 In tech, there are so many tools for
 your different projects. Now, the catch
-is that, you don't need to use them all.
+is that you don't need to use them all.
 You should be using them when it is really
 needed. For example, a Java framework, like
 Spring Boot is an excellent one when
@@ -79,4 +79,4 @@ A simple project in Java will be too
 complicated if you will be using the Spring Boot.
 The same is also true for GitHub.
 
-I covered also my simple content dev workflow. 
+I also covered my simple content dev workflow. 
