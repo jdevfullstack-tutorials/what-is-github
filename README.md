@@ -26,7 +26,8 @@ site for Git.
 This was the very start of GitHub. In order
 for other developers to ease collaboration 
 through a centralized space, GitHub was
-developed. Just like YouTube, users
+developed. Because of its practical use,
+just like YouTube, users
 grew every single day.
 
 And since Microsoft saw the potential,
