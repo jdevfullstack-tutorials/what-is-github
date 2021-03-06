@@ -111,3 +111,10 @@ I also covered my simple content development
 workflow here:
 
 <https://github.com/xdvrx1/my-personal-content-dev-workflow>
+
+## GitHub Jargon Terms
+`repository` -
+
+`fork` - 
+
+`pull request` - 
