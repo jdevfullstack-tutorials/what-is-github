@@ -186,3 +186,7 @@ and when you are already in GitHub,
 at the upper right corner you'll
 see `Fork` button. Simply click it
 and you will have the copy of this repo!
+
+the complete steps are here:
+
+<https://guides.github.com/activities/hello-world/>
