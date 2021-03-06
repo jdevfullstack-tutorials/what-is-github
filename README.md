@@ -113,12 +113,34 @@ workflow here:
 <https://github.com/xdvrx1/my-personal-content-dev-workflow>
 
 ## GitHub Jargon Terms
-`repository` -
+`repository` - think of it as Google Drive folder
+where your files resides.
+But commonly in GitHub, there is the README file
+as the description of your project
+and the source code/s. There can be subfolders
+for software development folder structure.
 
-`fork` - 
+`fork` - a copy of a repository. Changes can
+be made without affecting the original
+repository. A pull requrest should be
+created so that changes can be merged.
+A pull request can be simply not merged
+in main branch as the active developers
+has the full control.
 
-`pull request` - 
+`pull request` - a request for the author/s
+of a repo to have the proposed change/s
+be accepted in the `main` branch.
 
-`repository branch` -
+`repository branch` - branches can
+be made so that if ever author/s
+wish to change something without
+the fear of ruining the project,
+it should be done in a branch.
 
-`GitHub Pages` -
+`GitHub Pages` - another add-on
+for GitHub repo to be turned into a 
+static website. This has so many 
+applications like you can embed
+the file in another site or be your
+blog.
