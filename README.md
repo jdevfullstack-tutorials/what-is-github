@@ -33,6 +33,15 @@ grew every single day.
 And since Microsoft saw the potential,
 they simply acquired it.
 
+So using Git and collaborating with
+one another was brought to another level
+of ease. It is not just like you will
+be downloading the project, add your
+changes then send it through email 
+and wait whether it will be approved.
+Using GitHub, it is already in one
+place.
+
 ## GitHub Other Uses
 Now, the good thing about GitHub is that
 it can be used much like Google Docs to
