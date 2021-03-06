@@ -150,8 +150,8 @@ blog.
 
 `commit` - it is a revision or
 an individual change to a file
-including deletions or deleting 
-the file.
+including word deletions or deleting 
+the file/s.
 
 for the complete list here is the 
 link:
