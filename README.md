@@ -113,6 +113,9 @@ workflow here:
 <https://github.com/xdvrx1/my-personal-content-dev-workflow>
 
 ## GitHub Jargon Terms
+The very first time I encountered GitHub, 
+I was prompted by these jargon terms:
+
 `repository` - think of it as Google Drive folder
 where your files resides.
 But commonly in GitHub, there is the README file
