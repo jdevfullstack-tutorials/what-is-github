@@ -81,8 +81,8 @@ a good one.
 ## GitHub As A Social Media
 Since GitHub was also intended to be
 a social media for developers and non-developers
-there are now features like followers
-and Discussion feature for a more interactive
+there are features like followers
+and Discussion for a more interactive
 approach.
 
 ## Use GitHub Without Git
