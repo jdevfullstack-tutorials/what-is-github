@@ -144,3 +144,13 @@ static website. This has so many
 applications like you can embed
 the file in another site or be your
 blog.
+
+`commit` - it is a revision or
+an individual change to a file
+including deletions or deleting 
+the file.
+
+for the complete list here is the 
+link:
+
+<https://docs.github.com/en/github/getting-started-with-github/github-glossary>
