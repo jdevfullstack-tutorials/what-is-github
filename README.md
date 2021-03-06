@@ -79,9 +79,9 @@ digital content, every change will be counted
 as a commit, thereby making your GitHub Profile
 a good one.
 
-## GitHub As A Social Media
+## GitHub As A Social Network
 Since GitHub was also intended to be
-a social media for developers and non-developers,
+a social network for developers and non-developers,
 there are features like followers
 and Discussion for a more interactive
 approach.
