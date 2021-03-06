@@ -163,7 +163,7 @@ So what are you waiting for! Join GitHub, it's free.
 
 <https://github.com/join>
 
-Then create your very first repo by going into your profile
+Then create your very first repo by going to your profile
 
 <https://github.com/[yourusername]>
 
