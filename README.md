@@ -91,7 +91,7 @@ You will be surprised if I say up to now
 I did not install Git for GitHub. I am not
 using Git. And I am not saying you should not 
 use Git. But GitHub can simply be used
-without Git, first to simplify your
+without Git to simplify your
 workflow. 
 
 In tech, there are so many tools for
