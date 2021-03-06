@@ -46,9 +46,14 @@ place.
 Now, the good thing about GitHub is that
 it can be used much like Google Docs to
 generate document files, provided
-it's purely text. 
+it's purely text. Example of pure text
+content are classic novels, law articles,
+and complex tutorials. Take note,
+even though it's pure text, Markdown
+can embed pictures and gifs for a 
+wholesome experience.
 
-GitHub is using markdown for the 
+GitHub is using Markdown for the 
 README file. Markdown is a lightweight 
 markup language
 so that you will not be writing using 
