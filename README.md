@@ -106,6 +106,7 @@ A simple project in Java will be too
 complicated if you will be using the Spring Boot.
 The same is also true for GitHub.
 
-I also covered my simple content dev workflow here:
+I also covered my simple content development
+workflow here:
 
 <https://github.com/xdvrx1/my-personal-content-dev-workflow>
