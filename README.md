@@ -69,7 +69,7 @@ that you will be using.
 
 I covered the essence of creating written
 content compared to video presentations
-like a vlog.
+like a vlog:
 
 <https://github.com/xdvrx1/github-pages-tutorial>
 
