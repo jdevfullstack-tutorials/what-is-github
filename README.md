@@ -13,6 +13,7 @@ be used for collaboration for non-tech documents.
 There must be a local
 server so that one file could be changed
 simultaneously or through WebDAV. But Google Docs
+changed that way, it
 simplified the setup because it is web-based.
 GitHub has the same concept. It is a centralized
 space where the development actually happens.
