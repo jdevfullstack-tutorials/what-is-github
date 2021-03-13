@@ -84,7 +84,7 @@ a good one.
 Since GitHub was also intended to be
 a social network for developers and non-developers,
 there are features like followers
-and Discussion for a more interactive
+and discussion for a more interactive
 approach.
 
 ## Use GitHub Without Git
