@@ -24,10 +24,11 @@ features, it is not simply a centralized
 space for Git.
 
 ## GitHub As Hosting Site For Git
-This was the very start of GitHub. In order
+In order
 for other developers to ease collaboration 
 through a centralized space, GitHub was
-developed. Because of its practical use,
+developed. This was the very start of GitHub. 
+Because of its practical use,
 just like YouTube, users
 grew every single day.
 
