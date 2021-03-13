@@ -129,8 +129,8 @@ be made without affecting the original
 repository. A pull request should be
 created so that changes can be merged.
 A pull request can be simply not merged
-in the main branch as the active developers
-have the full control.
+in the main branch, it is the author/s
+of the original repo to decide.
 
 `pull request` - a request for the author/s
 of a repo to have the proposed change/s
@@ -183,7 +183,7 @@ section click `New`.
 Also, to practice copying another repo, 
 if you are viewing this as a page, click
 the button `View On GitHub` button on top
-and when you are already in GitHub, 
+and when you are already on GitHub, 
 at the upper right corner you'll
 see `Fork` button. Simply click it
 and you will have the copy of this repo!
