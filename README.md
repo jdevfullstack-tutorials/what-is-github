@@ -4,7 +4,8 @@ was not that simple. Every proposed change
 would be sent to email because there was no 
 centralized space. Imagine if this would be
 a collaboration of more than a hundred developers
-working at the same time. That was the
+working at the same time. That would be
+really hard. That was the
 flow back then.
 
 It was the same thing when Microsoft Word would 
@@ -41,8 +42,8 @@ of ease. It is not just like you will
 be downloading the project, add your
 changes then send it through email 
 and wait whether it will be approved.
-Using GitHub, it is already in one
-place.
+Using GitHub, it is already on one
+online space.
 
 ## GitHub Other Uses
 Now, the good thing about GitHub is that
