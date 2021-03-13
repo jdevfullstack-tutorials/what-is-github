@@ -29,8 +29,8 @@ for other developers to ease collaboration
 through a centralized space, GitHub was
 developed. This was the very start of GitHub. 
 Because of its practical use,
-just like YouTube, users
-grew every single day.
+just like YouTube, new users
+flocked every single day.
 
 And since Microsoft saw the potential,
 they simply acquired it.
