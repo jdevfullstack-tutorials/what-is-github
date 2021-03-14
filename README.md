@@ -5,8 +5,7 @@ would be sent to email because there was no
 centralized space. Imagine if this would be
 a collaboration of more than a hundred developers
 working at the same time. That would be
-really hard. That was the
-flow back then.
+really hard.
 
 It was the same thing when Microsoft Word would 
 be used for collaboration for non-tech documents.
@@ -121,18 +120,27 @@ I was prompted by these jargon terms:
 
 `repository` - think of it as a Google Drive folder
 where your files reside.
-But commonly in GitHub, there is the README file
-as the description of your project
-and the source code/s. There can be subfolders
+There can be subfolders
 for software development folder structure.
+
+On GitHub, there is the README file
+as the description of your project
+and the source code/s. This is the 
+default page displayed once you visit
+a repo. This is also your default page
+when you deployed GitHub Pages from
+the `main` repository. 
+
+Check this out:
+<https://github.com/xdvrx1/github-pages-tutorial>
 
 `fork` - a copy of a repository. Changes can
 be made without affecting the original
 repository. A pull request should be
 created so that changes can be merged.
 A pull request can be simply not merged
-in the main branch, it is the author/s
-of the original repo to decide.
+in the main branch, it is the repo's
+original author/s to decide.
 
 `pull request` - a request for the author/s
 of a repo to have the proposed change/s
