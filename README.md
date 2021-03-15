@@ -52,8 +52,8 @@ it's purely text. Examples of pure text
 content are classic novels, law articles,
 and complex tutorials. Take note,
 even though it's pure text, Markdown
-can embed pictures and gifs for a 
-wholesome experience.
+can embed pictures and gifs to serve
+as visual aid.
 
 GitHub is using Markdown for the 
 README file. Markdown is a lightweight 
@@ -158,6 +158,15 @@ static website. This has so many
 applications like you can embed
 the file in another site or be your
 blog.
+
+`GitHub Gist` - another feature of
+GitHub. It is considered a lightweight
+repo but still has all the features
+for Git. It can be used as mini-blogging
+site, for others can actually comment
+on your project or idea. It can
+be used to share code snippets, just
+like Pastebin.
 
 `commit` - it is a revision or
 an individual change to a file
