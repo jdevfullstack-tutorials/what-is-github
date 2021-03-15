@@ -32,7 +32,6 @@ developed. This was the very start of GitHub.
 Because of its practical use,
 just like YouTube, new users
 flocked every single day.
-
 And since Microsoft saw the potential,
 they simply acquired it.
 
@@ -78,7 +77,7 @@ like a vlog:
 
 With this, while you are creating your 
 digital content, every change will be counted
-as a commit, thereby making your GitHub Profile
+as a commit, thereby making your GitHub profile
 a good one.
 
 ## GitHub As A Social Network
@@ -123,9 +122,10 @@ where your files reside.
 There can be subfolders
 for software development folder structure.
 
-On GitHub, there is the README file
-as the description of your project
-and the source code/s. This is the 
+
+There is the README file
+as the description of your project. 
+This is the 
 default page displayed once you visit
 a repo. This is also your default page
 when you deployed GitHub Pages from
