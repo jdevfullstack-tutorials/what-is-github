@@ -84,7 +84,7 @@ as a commit, thereby making your GitHub profile
 a good one.
 
 ## GitHub As A Social Network
-Since GitHub was also intended to be
+Since GitHub is also intended to be
 a social network for developers and non-developers,
 there are features like followers
 and discussion for a more interactive
