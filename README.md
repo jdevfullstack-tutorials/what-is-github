@@ -143,7 +143,7 @@ like Pastebin.
 for GitHub repo to be turned into a 
 static website. This has so many 
 applications like you can embed
-the file in another site or be your
+the file on another site or be your
 blog.
 
 `pull request` - a request for the author/s
