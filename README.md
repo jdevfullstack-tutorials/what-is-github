@@ -117,11 +117,43 @@ workflow here:
 The very first time I encountered GitHub, 
 I was prompted by these jargon terms:
 
+`commit` - it is a revision or
+an individual change to a file
+including word deletions or deleting 
+the file/s.
+
+`fork` - a copy of a repository. Changes can
+be made without affecting the original
+repository. A pull request should be
+created so that changes can be merged.
+A pull request can be simply not merged
+in the main branch, it is the repo's
+original author/s to decide.
+
+`GitHub Gist` - another feature of
+GitHub. It is considered a lightweight
+repo but still has all the features
+for Git. It can be used as mini-blogging
+site, for others can actually comment
+on your project or idea. It can
+be used to share code snippets, just
+like Pastebin.
+
+`GitHub Pages` - another add-on
+for GitHub repo to be turned into a 
+static website. This has so many 
+applications like you can embed
+the file in another site or be your
+blog.
+
+`pull request` - a request for the author/s
+of a repo to have the proposed change/s
+be accepted in the `main` branch.
+
 `repository` - think of it as a Google Drive folder
 where your files reside.
 There can be subfolders
 for software development folder structure.
-
 
 There is the README file
 as the description of your project. 
@@ -134,44 +166,11 @@ the `main` repository.
 Check this out:
 <https://github.com/xdvrx1/github-pages-tutorial>
 
-`fork` - a copy of a repository. Changes can
-be made without affecting the original
-repository. A pull request should be
-created so that changes can be merged.
-A pull request can be simply not merged
-in the main branch, it is the repo's
-original author/s to decide.
-
-`pull request` - a request for the author/s
-of a repo to have the proposed change/s
-be accepted in the `main` branch.
-
 `repository branch` - branches can
 be made so that if ever author/s
 wish to change something without
 the fear of ruining the project,
 it should be done in a branch.
-
-`GitHub Pages` - another add-on
-for GitHub repo to be turned into a 
-static website. This has so many 
-applications like you can embed
-the file in another site or be your
-blog.
-
-`GitHub Gist` - another feature of
-GitHub. It is considered a lightweight
-repo but still has all the features
-for Git. It can be used as mini-blogging
-site, for others can actually comment
-on your project or idea. It can
-be used to share code snippets, just
-like Pastebin.
-
-`commit` - it is a revision or
-an individual change to a file
-including word deletions or deleting 
-the file/s.
 
 for the complete list here is the 
 link:
