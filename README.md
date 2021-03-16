@@ -26,7 +26,8 @@ space for Git.
 
 Codes are written in plain text but
 since other documents are plain text too,
-it can be used for that.
+like classic novels, GitHub can be used
+for that purpose.
 
 ## GitHub As Hosting Site For Git
 In order
