@@ -144,7 +144,7 @@ for GitHub repo to be turned into a
 static website. This has so many 
 applications like you can embed
 the file on another site or be your
-blog.
+blogging site.
 
 `pull request` - a request for the author/s
 of a repo to have the proposed change/s
