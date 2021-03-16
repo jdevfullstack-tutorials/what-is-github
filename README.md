@@ -56,7 +56,7 @@ content are classic novels, law articles,
 and complex tutorials. Take note,
 even though it's pure text, Markdown
 can embed pictures and gifs to serve
-as visual aid.
+as visual aids.
 
 GitHub is using Markdown for the 
 README file. Markdown is a lightweight 
