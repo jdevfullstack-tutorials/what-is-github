@@ -136,7 +136,7 @@ original author/s to decide.
 `GitHub Gist` - another feature of
 GitHub. It is considered a lightweight
 repo but still has all the features
-for Git. It can be used as mini-blogging
+for Git. It can be used as a mini-blogging
 site, for others can actually comment
 on your project or idea. It can
 be used to share code snippets, just
