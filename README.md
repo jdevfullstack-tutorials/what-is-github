@@ -24,6 +24,10 @@ development but since GitHub added its own
 features, it is not simply a centralized
 space for Git.
 
+Codes are written in plain text but
+since other documents are plain text too,
+it can be used for that.
+
 ## GitHub As Hosting Site For Git
 In order
 for other developers to ease collaboration 
@@ -32,8 +36,6 @@ developed. This was the very start of GitHub.
 Because of its practical use,
 just like YouTube, new users
 flocked every single day.
-And since Microsoft saw the potential,
-they simply acquired it.
 
 So using Git and collaborating with
 one another was brought to another level
