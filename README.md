@@ -79,7 +79,7 @@ I covered the essence of creating written
 content compared to video presentations
 like a vlog:
 
-<https://github.com/xdvrx1/github-pages-tutorial>
+<https://github.com/jdevstatic/github-pages-tutorial>
 
 With this, while you are creating your 
 digital content, every change will be counted
@@ -117,7 +117,7 @@ The same is also true for GitHub.
 I also covered my simple content development
 workflow here:
 
-<https://github.com/xdvrx1/my-personal-content-dev-workflow>
+<https://github.com/jdevstatic/my-personal-content-dev-workflow>
 
 ## GitHub Jargon Terms
 The very first time I encountered GitHub, 
@@ -170,7 +170,7 @@ when you deployed GitHub Pages from
 the `main` repository. 
 
 Check this out:
-<https://github.com/xdvrx1/github-pages-tutorial>
+<https://github.com/jdevstatic/github-pages-tutorial>
 
 `repository branch` - branches can
 be made so that if ever author/s
